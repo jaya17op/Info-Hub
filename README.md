@@ -1,7 +1,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-InfoWeb aims to foster a community where learning, understanding, and respectful interaction thrive, inviting users to contribute their insights on personal experiences, current events, and complex issues. From user interaction to community management, technical implementation, and various features, including nested deep comments, notifications, real-time search, and more, InfoWeb is committed to providing a seamless and enriching experience for all participants in the digital dialogue. Join us on InfoWeb as we create a space for enriching conversations and collective knowledge sharing, redefining digital engagement one thoughtful interaction at a time. 
+InfoHub aims to foster a community where learning, understanding, and respectful interaction thrive, inviting users to contribute their insights on personal experiences, current events, and complex issues. From user interaction to community management, technical implementation, and various features, including nested deep comments, notifications, real-time search, and more, InfoWeb is committed to providing a seamless and enriching experience for all participants in the digital dialogue. Join us on InfoWeb as we create a space for enriching conversations and collective knowledge sharing, redefining digital engagement one thoughtful interaction at a time. 
 
 
 
