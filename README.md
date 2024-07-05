@@ -35,12 +35,6 @@ InfoHub aims to foster a community where learning, understanding, and respectful
 
 👉 **Profile Page**: User profile pages for showcasing information and enabling modification of profile settings.
 
-👉 **Create and Invite to Communities**: Allow users to create new communities and invite others using customizable template emails.
-
-👉 **Community Member Management**: A user-friendly interface to manage community members, allowing role changes and removals.
-
-👉 **Admin-Specific Community Threads**: Enable admins to create threads specifically for their community.
-
 👉 **Community Search with Pagination**: A community search feature with pagination for exploring different communities.
 
 👉 **Community Profiles**: Display community profiles showcasing threads and members for a comprehensive overview.
