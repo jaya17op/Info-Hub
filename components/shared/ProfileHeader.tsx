@@ -7,14 +7,16 @@ name:string,
 username:string,
 imgUrl:string,
 bio:string,
+type?:string
 }
 const ProfileHeader = ({
-    accountId,
+  accountId,
 authUserId,
 name,
 username,
 imgUrl,
 bio,
+type,
 }:props) => {
   return (
     <div className="flex flex-col w-full justify-start">
