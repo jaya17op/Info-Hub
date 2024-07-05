@@ -18,7 +18,7 @@ const LeftSidebar = () => {
             if (link.route === "/profile") {
               if(userId===null)
               {
-                redirect('/onbording');
+                redirect('/sign-in');
               }
               return (
                 <Link
