@@ -128,4 +128,6 @@ export async function addCommentToThread(
         throw new Error(err.message);
     }
 }
+export async function deleteThread(id: string, path: string): Promise<void> {
+}
     
